@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Test Suite" duration-ms="15541" started-at="2020-10-25T04:58:16Z" finished-at="2020-10-25T04:58:32Z">
+    <groups>
+    </groups>
+    <test name="API Regression1" duration-ms="15541" started-at="2020-10-25T04:58:16Z" finished-at="2020-10-25T04:58:32Z">
+      <class name="ViatorCalendar.MultiProductDetails">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ViatorCalendar.MultiProductDetails@5f37c15c]" name="setup" is-config="true" duration-ms="2" started-at="2020-10-25T04:58:28Z" finished-at="2020-10-25T04:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="supplierCode1()[pri:0, instance:ViatorCalendar.MultiProductDetails@5f37c15c]" name="supplierCode1" duration-ms="1994" started-at="2020-10-25T04:58:28Z" finished-at="2020-10-25T04:58:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supplierCode1 -->
+        <test-method status="PASS" signature="supplierCode2()[pri:0, instance:ViatorCalendar.MultiProductDetails@5f37c15c]" name="supplierCode2" duration-ms="1887" started-at="2020-10-25T04:58:30Z" finished-at="2020-10-25T04:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supplierCode2 -->
+      </class> <!-- ViatorCalendar.MultiProductDetails -->
+      <class name="ViatorCalendar.BasicProductDetails">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ViatorCalendar.BasicProductDetails@2b733b3c]" name="setup" is-config="true" duration-ms="641" started-at="2020-10-25T04:58:17Z" finished-at="2020-10-25T04:58:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="PricingUnit()[pri:0, instance:ViatorCalendar.BasicProductDetails@2b733b3c]" name="PricingUnit" duration-ms="4593" started-at="2020-10-25T04:58:17Z" finished-at="2020-10-25T04:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PricingUnit -->
+        <test-method status="PASS" signature="productCode()[pri:0, instance:ViatorCalendar.BasicProductDetails@2b733b3c]" name="productCode" duration-ms="2241" started-at="2020-10-25T04:58:22Z" finished-at="2020-10-25T04:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productCode -->
+        <test-method status="PASS" signature="productDetailsFullResponse()[pri:0, instance:ViatorCalendar.BasicProductDetails@2b733b3c]" name="productDetailsFullResponse" duration-ms="2009" started-at="2020-10-25T04:58:24Z" finished-at="2020-10-25T04:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetailsFullResponse -->
+        <test-method status="PASS" signature="productName()[pri:0, instance:ViatorCalendar.BasicProductDetails@2b733b3c]" name="productName" duration-ms="2147" started-at="2020-10-25T04:58:26Z" finished-at="2020-10-25T04:58:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productName -->
+      </class> <!-- ViatorCalendar.BasicProductDetails -->
+    </test> <!-- API Regression1 -->
+  </suite> <!-- API Test Suite -->
+</testng-results>

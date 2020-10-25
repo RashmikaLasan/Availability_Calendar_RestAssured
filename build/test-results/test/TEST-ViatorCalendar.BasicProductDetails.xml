@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ViatorCalendar.BasicProductDetails" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-25T04:58:17" hostname="DESKTOP-UDDFKV4" time="10.994">
+  <properties/>
+  <testcase name="PricingUnit" classname="ViatorCalendar.BasicProductDetails" time="4.593"/>
+  <testcase name="productCode" classname="ViatorCalendar.BasicProductDetails" time="2.241"/>
+  <testcase name="productDetailsFullResponse" classname="ViatorCalendar.BasicProductDetails" time="2.009"/>
+  <testcase name="productName" classname="ViatorCalendar.BasicProductDetails" time="2.147"/>
+  <system-out><![CDATA[{
+    "status": {
+        "code": 1,
+        "message": "SUCCESS"
+    },
+    "keyControls": {
+        "cmp": "CT",
+        "div": "CTDIV_LON",
+        "brand": "CT_OL",
+        "channel": "U",
+        "cliId": 10023,
+        "cliGrp": "Direct",
+        "cliType": "DIRECT_CLIENT",
+        "bkgType": "STD",
+        "srcCountry": "GB",
+        "cur": "GBP",
+        "userId": 0
+    },
+    "data": [
+        {
+            "productCode": "GEN",
+            "startDate": "2020-10-24",
+            "endDate": "2021-11-25",
+            "products": [
+                {
+                    "supplierCode": "VT158308P3",
+                    "supplierName": "Luxury Private Vehicle Day Hire From & to London via Stonehenge & Windsor Castle",
+                    "dates": [
+                        {
+                            "date": "2020-10-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-25",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-26",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-29",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-30",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-10-31",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-17",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-18",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-19",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-20",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-21",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-22",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-23",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-25",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-26",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-29",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-11-30",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-17",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-18",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-19",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-20",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-21",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-22",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-23",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-29",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-30",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2020-12-31",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-17",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-18",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-19",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-20",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-21",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-22",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-23",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-25",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-26",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-29",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-30",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-01-31",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-17",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-18",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-19",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-20",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-21",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-22",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-23",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-25",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-26",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-02-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-17",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-18",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-19",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-20",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-21",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-22",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-23",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-24",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-25",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-26",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-27",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-28",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-29",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-30",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-03-31",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-01",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-02",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-03",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-04",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-05",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-06",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-07",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-08",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-09",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-10",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-11",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-12",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-13",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-14",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-15",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        },
+                        {
+                            "date": "2021-04-16",
+                            "pricingUnit": "PER_PERSON",
+                            "rateInfo": {
+                                "price": 679.46,
+                                "currencyCode": "GBP"
+                            },
+                            "availabilityStatus": "AVAILABLE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "v2.0"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
