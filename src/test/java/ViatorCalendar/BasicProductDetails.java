@@ -41,8 +41,8 @@ public class BasicProductDetails extends TestBase{
     public void PricingUnit() {
         commonRequestAndResponse1();
         Assert.assertEquals(response.jsonPath().
-//                getString("data[0].products[0].dates[0].pricingUnit"), "per_vehicle");
-        getString("data[0].products[0].dates[0].pricingUnit"), "PER_PERSON");
+                getString("data[0].products[0].dates[0].pricingUnit"), "per_vehicle");
+//        getString("data[0].products[0].dates[0].pricingUnit"), "PER_PERSON");
         logger.info("Pricing Unit Testcase Completed");
     }
 
