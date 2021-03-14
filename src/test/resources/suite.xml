@@ -6,6 +6,8 @@
             <!--<class name="ViatorCalendar.TestBase"/>-->
             <class name="ViatorCalendar.BasicProductDetails"/>
             <class name="ViatorCalendar.MultiProductDetails"/>
+            <class name="ViatorCalendar.HotelProductSearch"/>
+
 
         </classes>
     </test>

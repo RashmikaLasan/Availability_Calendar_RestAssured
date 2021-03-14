@@ -15,7 +15,7 @@ public class TestBase {
 
     @BeforeClass
     public void setup() throws IOException {
-        TestBase.setBaseURI("https://tbx.backend.staging.travel.theculturetrip.com/generic-search/v2/products/");
+        TestBase.setBaseURI("https://tbx.backend.staging.travel.theculturetrip.com/");
 
         config = new Properties();
         FileInputStream fis = new FileInputStream("E:\\LearningMe\\AvailabilityCalendar\\src\\test\\java\\constants\\config.properties");

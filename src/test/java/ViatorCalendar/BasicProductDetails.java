@@ -15,8 +15,8 @@ public class BasicProductDetails extends TestBase{
 
     @Test
     public void productDetailsFullResponse(){
-        given()
-                .contentType(ContentType.JSON).when().get(url1).
+        given().
+                contentType(ContentType.JSON).when().get(url1).
                 then().extract().response().prettyPrint();
         logger.info("BasicProductDetails Testcase Completed");
     }
@@ -24,25 +24,23 @@ public class BasicProductDetails extends TestBase{
     public void productCode() {
         commonRequestAndResponse1();
         Assert.assertEquals(response.jsonPath().
-        getString("data[0].products[0].supplierCode"), "VT158308P3");
+                getString("data[0].products[0].supplierCode"), "VT129362P39");
         logger.info("Product Code Testcase Completed");
     }
     @Test
     public void productName() {
         commonRequestAndResponse1();
         Assert.assertEquals(response.jsonPath().
-                getString("data[0].products[0].supplierName"), "Luxury Private Vehicle Day Hire From & to London via Stonehenge & Windsor Castle");
+                getString("data[0].products[0].supplierName"), "Classic Private Full Day Delhi Tour With All Inclusive");
         logger.info("Product Name Testcase Completed");
     }
-
-
 
     @Test
     public void PricingUnit() {
         commonRequestAndResponse1();
         Assert.assertEquals(response.jsonPath().
-                getString("data[0].products[0].dates[0].pricingUnit"), "per_vehicle");
-//        getString("data[0].products[0].dates[0].pricingUnit"), "PER_PERSON");
+//         getString("data[0].products[0].dates[0].pricingUnit"), "per_vehicle");
+        getString("data[0].products[0].dates[0].pricingUnit"), "PER_PERSON");
         logger.info("Pricing Unit Testcase Completed");
     }
 
