@@ -25,7 +25,7 @@ public class MultiProductDetails extends TestBase {
     public void supplierCode2() {
         commonRequestAndResponse2();
         Assert.assertEquals(response2.jsonPath().
-                getString("data[0].products[1].supplierCode"), "VT12s596P7");
+                getString("data[0].products[1].supplierCode"), "VT12596P7");
         logger.info("supplierCode2 Testcase Completed");
     }
 
