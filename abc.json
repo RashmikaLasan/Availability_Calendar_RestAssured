@@ -1,0 +1,308 @@
+{
+  "keyControls": {
+    "cmp": "CT",
+    "div": "CTDIV_LON",
+    "brand": "CT",
+    "channel": "U",
+    "cliId": 10023,
+    "cliGrp": "Direct",
+    "cliType": "DIRECT_CLIENT",
+    "bkgType": "STD",
+    "srcCountry": "GB",
+    "cur": "GBP",
+    "userId": 8778,
+    "username": "codegen"
+  },
+  "payload":{
+      "productCode": "GEN",
+      "productKey": "GEN~1",
+      "selected": false,
+      "attributes": [
+        {
+          "name": "isBlockedResult",
+          "value": "NO"
+        },
+        {
+          "name": null,
+          "value": "CT|CTDIV_LON|CT|U|Direct|GB|GBP|2_0_0|CMP|[2_0_0]|1_19/05/2021_PAR_GEN_-1"
+        }
+      ],
+      "summary": {
+        "availabilityStatus": "AVAILABLE",
+        "productStatus": "BOOKING",
+        "productType": "GEN",
+        "name": "Île de la Cité: Where Paris Was Born Walking Audio Tour by VoiceMap",
+        "highlight": "Ziplines",
+        "primaryAttribute": "Outdoor Activities",
+        "serviceStartDate": "2021-05-19",
+        "serviceEndDate": "2021-05-19",
+        "duration": 0,
+        "durationType": "NA",
+        "durationDescription": "1 hour",
+        "travelDates": {
+          "startDate": "2021-05-19",
+          "endDate": "2021-05-19"
+        },
+        "travelDuration": {
+          "duration": 0,
+          "durationType": "NA"
+        },
+        "recommended": false,
+        "specialOffer": false,
+        "totalPrice": 11.18,
+        "discount": 0.00,
+        "priceBeforeDiscount": 11.18,
+        "vipBooking": false
+      },
+      "detail": {
+        "elementGrp": "VT9",
+        "elementGrpName": "Outdoor Activities",
+        "freeTextConditions": [],
+        "destination": {
+          "cityCode": "PAR",
+          "cityName": "Paris  ",
+          "countryCode": "FR",
+          "countryName": "France",
+          "stateCode": "",
+          "stateName": ""
+        },
+        "additionalInfo": {
+          "nonRefundable": true,
+          "nonAmendable": false,
+          "provisional": false,
+          "preference": 0
+        }
+      },
+      "metaInfo": {
+        "result": {
+          "searchResultIndex": "0:1",
+          "holidayTemplateId": 0,
+          "compositionId": 0,
+          "itineraryItemNo": -1,
+          "cfScore": 0.00,
+          "gridNo": 0,
+          "gridType": 0,
+          "itineraryNo": 0,
+          "itineraryOrder": 0,
+          "holidayId": 0,
+          "pkgId": 0,
+          "resultNo": 1,
+          "swapItemNo": 0,
+          "promo": false,
+          "requestedRegion": "XXX",
+          "optionalItineraryItem": false
+        }
+      },
+      "source": {
+        "supplier": {
+          "id": 231696,
+          "code": "VT110804P146",
+          "name": "Île de la Cité: Where Paris Was Born Walking Audio Tour by VoiceMap"
+        },
+        "liteSupplier": {
+          "code": "VT110804P146",
+          "name": "Île de la Cité: Where Paris Was Born Walking Audio Tour by VoiceMap"
+        },
+        "serviceProviders": [
+          {
+            "type": "EXTERNAL_SOURCE_CONTENT",
+            "supplier": {}
+          }
+        ],
+        "internal": {
+          "id": 0,
+          "version": 0
+        },
+        "external": {
+          "id": "3",
+          "ref": "Viator"
+        }
+      },
+      "rate": {
+        "discount": 0.00,
+        "price": 11.18,
+        "priceWithTax": 11.18,
+        "tax": 0.00,
+        "commission": 0.00,
+        "commissionPercentage": 0.00,
+        "travellerRateBreakdown": [
+          {
+            "travellerNo": 1,
+            "servicePaxType": "A",
+            "price": 5.59,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 4.68
+          },
+          {
+            "travellerNo": 2,
+            "servicePaxType": "A",
+            "price": 5.59,
+            "tax": 0.00,
+            "priceWithTax": 0.00,
+            "cost": 4.68
+          }
+        ],
+        "priceWithoutCommission": 0.00,
+        "itemSuppliemntPrice": 0.00,
+        "amendmentCharge": 0.00,
+        "cancellationCharge": 0.00,
+        "cnxPrice": 0.00,
+        "sellingToBaseExchangeRate": 0.00,
+        "basePrice": 0.00,
+        "manualCommission": false,
+        "itemDiscount": 0.00,
+        "totalItemFeeBase": 0.00,
+        "totalItemFee": 0.00,
+        "totalTaxBase": 0.00,
+        "totalTax": 0.00,
+        "totalNettBookingTax": 0.00
+      },
+      "travellerInfo": {
+        "adult": 2,
+        "child": 0,
+        "infant": 0,
+        "travellers": [
+          {
+            "no": 1,
+            "lead": true,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "JCSNN",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          },
+          {
+            "no": 2,
+            "lead": false,
+            "driver": false,
+            "activeForBooking": true,
+            "refuseInsurance": false,
+            "profile": {
+              "title": "Mr",
+              "firstName": "TSAGF",
+              "lastName": "TBA",
+              "type": "A",
+              "dobUnknown": true,
+              "age": 30,
+              "gender": "M",
+              "vip": false,
+              "smoker": false,
+              "dummy": true
+            },
+            "infantSeatRequired": false,
+            "primaryPpForBooking": false,
+            "endorsedPpForBooking": false,
+            "endorsedPassengerNo": 0,
+            "allocatedForBooking": false
+          }
+        ]
+      },
+      "content": {
+        "image": "VT9.jpg",
+        "description": "",
+        "location": "/tc_images/GEN/",
+        "contentItems": []
+      },
+      "additionalContents": [],
+      "notes": [],
+      "supplements": [],
+      "discounts": [],
+      "supplierInfo": {
+        "supplierId": 231696,
+        "name": "Île de la Cité: Where Paris Was Born Walking Audio Tour by VoiceMap"
+      },
+      "multiSource": false,
+      "category": {
+        "categoryCode": "TG1",
+        "categoryName": "Île de la Cité: Where Paris Was Born Walking Audio Tour by VoiceMap",
+        "productTypeCode": "VT5323",
+        "productTypeName": "Ziplines",
+        "units": 1,
+        "availStatus": "AVAILABLE",
+        "rate": {
+          "discount": 0.00,
+          "price": 11.18,
+          "priceWithTax": 11.18,
+          "tax": 0.00,
+          "commission": 0.00,
+          "commissionPercentage": 0.00,
+          "priceWithoutCommission": 0.00,
+          "itemSuppliemntPrice": 0.00,
+          "amendmentCharge": 0.00,
+          "cancellationCharge": 0.00,
+          "cnxPrice": 0.00,
+          "sellingToBaseExchangeRate": 0.00,
+          "basePrice": 0.00,
+          "manualCommission": false,
+          "itemDiscount": 0.00,
+          "totalItemFeeBase": 0.00,
+          "totalItemFee": 0.00,
+          "totalTaxBase": 0.00,
+          "totalTax": 0.00,
+          "totalNettBookingTax": 0.00
+        },
+        "discounts": [],
+        "supplements": [],
+        "choiceKey": "GEN~0~TG1~VT5323~VT110804P146~110804P146",
+        "cancellationRules": [
+          {
+            "ruleNo": 0,
+            "days": 0,
+            "fromDate": "2021-03-17",
+            "toDate": null,
+            "charge": 9.35,
+            "chargeType": null
+          }
+        ],
+        "attributes": [
+          {
+            "name": "cancellation_policy",
+            "value": "If cancelled/amended between Mar 17, 2021 and May 19, 2021 there will be a 9.35 GBP charge."
+          }
+        ]
+      },
+      "additionalRequirements": [
+        {
+          "type": "LANG",
+          "subtype": "LIST",
+          "code": "LANG",
+          "mandatory": true,
+          "messageInfo": {
+            "subTitle": ""
+          },
+          "possibleValues": [
+            {
+              "code": "en/SERVICE_AUDIO",
+              "title": "English - Audio"
+            }
+          ]
+        },
+        {
+          "type": "SP_NOTE",
+          "subtype": "TEXT_AREA",
+          "code": "special_note#0",
+          "mandatory": false,
+          "messageInfo": {
+            "title": "Special Requirements",
+            "subTitle": ""
+          }
+        }
+      ]
+    }
+}

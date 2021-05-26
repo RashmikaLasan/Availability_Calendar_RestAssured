@@ -9,7 +9,7 @@ import static io.restassured.RestAssured.given;
 
 public class HotelProductSearch extends TestBase {
 
-    String url3 = EndPoints.VIATOR_ENDPOINT1;
+    String url3 = EndPoints.HTL_ENDPOINT2;
     public static Response response;
 
     @Test
